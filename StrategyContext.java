@@ -20,4 +20,4 @@ public class StrategyContext implements EncryptionStrategy {
     public void init(Object secretKey) {
         strategy.init(secretKey);
     }
-
+}
