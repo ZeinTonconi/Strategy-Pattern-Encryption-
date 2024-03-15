@@ -45,3 +45,4 @@ public class CesarStrategy implements EncryptionStrategy {
             System.out.println("Invalid type for Cesar! The key must be an integer");
         }
     }
+}
